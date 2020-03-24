@@ -1,4 +1,7 @@
 # Hawks-And-Doves
+
+Author: Sumanth Paranjape | 1215250465
+
 Hawks and Dove Game Simulation in Unity 3D
 
 * The application contains a Graphical User Interface which takes a set number of parameters and simulates Hawks, Doves and Food. 
